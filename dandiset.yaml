@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.10/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -25,14 +26,22 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - ProcessingModule
-citation: Sabri, Ehsan (2025) Dual Enkephalinase Inhibitor Effects on Stress-Induced
-  Reward Seeking Neural and Behavioral Deficits (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/001564/draft
+citation: Sabri, Ehsan; Pintar, John; Harris, Alexander (2025) Dual Enkephalinase
+  Inhibitor Effects on Stress-Induced Reward Seeking Neural and Behavioral Deficits
+  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001564/draft
 contributor:
 - affiliation: []
   email: ehsan.sabri@gmail.com
   includeInCitation: true
   name: Sabri, Ehsan
+  roleName: []
+  schemaKey: Person
+- includeInCitation: true
+  name: Pintar, John
+  roleName: []
+  schemaKey: Person
+- includeInCitation: true
+  name: Harris, Alexander
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
@@ -41,6 +50,7 @@ description: 'This dataset contains the raw data from behavioral and fiber photo
   recording sessions for the first phase of a study investigating the effects of a
   dual enkephalinase inhibitor on stress-induced deficits in reward-seeking behavior
   in mice. '
+ethicsApproval: []
 id: DANDI:001564/draft
 identifier: DANDI:001564
 license:
@@ -49,8 +59,10 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001564/versions/draft/assets/
 name: Dual Enkephalinase Inhibitor Effects on Stress-Induced Reward Seeking Neural
   and Behavioral Deficits
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
 url: https://dandiarchive.org/dandiset/001564/draft
 version: draft
+wasGeneratedBy: []
