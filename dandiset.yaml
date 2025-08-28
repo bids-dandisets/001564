@@ -7,9 +7,15 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 22655225132
+  numberOfFiles: 106
+  numberOfSubjects: 3
   schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Sabri, Ehsan (2025) Dual Enkephalinase Inhibitor Effects on Stress-Induced
   Reward Seeking Neural and Behavioral Deficits (Version draft) [Data set]. DANDI
   Archive. https://dandiarchive.org/dandiset/001564/draft
