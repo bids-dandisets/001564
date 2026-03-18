@@ -1,0 +1,15 @@
+[
+  {
+    "identifier": "InvalidDandisetMetadata",
+    "title": "INFO: invalid Dandiset metadata",
+    "reason": "This Dandiset has invalid metadata.",
+    "solution": "Required dataset description fields are inferred from the raw metadata instead.",
+    "examples": null,
+    "field": null,
+    "data_standards": null,
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "INTERNAL_ERROR",
+    "severity": "INFO"
+  }
+]
