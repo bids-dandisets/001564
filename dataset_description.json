@@ -4,7 +4,11 @@
     "HEDVersion": "8.3.0",
     "Description": "This dataset contains the raw data from behavioral and fiber photometry recording sessions for the first phase of a study investigating the effects of a dual enkephalinase inhibitor on stress-induced deficits in reward-seeking behavior in mice. ",
     "DatasetType": "raw",
-    "Authors": null,
+    "Authors": [
+        "Sabri, Ehsan",
+        "Pintar, John",
+        "Harris, Alexander"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
